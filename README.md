@@ -57,12 +57,12 @@ npm run start:dev
 
 #### [Github Repo](https://github.com/geoescobar/social-network-api)
 
-![Repo](./assets/repo.png)
+![Repo](./Assets/repo.png)
 
-#### [Screencastify](https://drive.google.com/file/d/1S9vip79GoECBN4KradmMrNQ2Qla76EdX/view)
+#### [Demo](https://drive.google.com/file/d/1S9vip79GoECBN4KradmMrNQ2Qla76EdX/view)
 If video doesn't load hit download to view
 
-![demo](./assets/demo.gif)
+![demo](./Assets/demo.png)
 
 ---
 
