@@ -1,6 +1,6 @@
 # Text Editor: Progressive Web Applications(PWA)
 
- A text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
+A text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
 
 ## License
 
@@ -39,7 +39,7 @@
 gh repo clone geoescobar/Text-Editor
 ```
 
-2. Install required NPM packages 
+2. Install required NPM packages
 
 ```
 npm run install
@@ -55,12 +55,11 @@ npm run start:dev
 
 ## Application
 
-#### [Github Repo](https://github.com/geoescobar/social-network-api)
+#### [Github Repo](https://github.com/geoescobar/Text-Editor)
 
 ![Repo](./Assets/repo.png)
 
-#### [Demo](https://drive.google.com/file/d/1S9vip79GoECBN4KradmMrNQ2Qla76EdX/view)
-If video doesn't load hit download to view
+#### [Demo](https://limitless-hollows-92081.herokuapp.com/)
 
 ![demo](./Assets/demo.png)
 
